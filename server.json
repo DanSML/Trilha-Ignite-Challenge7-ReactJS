@@ -1,0 +1,58 @@
+{
+  "continents": [
+    {
+      "presentation": {
+        "background": "/carouselImages/img-1.png",
+        "header": "Europa",
+        "info": "O continente mais antigo."
+      }, 
+      "pageDetails": {
+        "banner": {
+          "background": "/carouselImages/img-1.png",
+          "header": "Europa"
+        },
+        "curiosities": {
+          "info": "exemplo-info",
+          "data": {
+            "countries": 50,
+            "languages": 60,
+            "plus100Numbers": 27
+          }
+        },
+        "plus100Cards": {
+          "banner": "exemplo-banner",
+          "citie": "exemplo-cidade",
+          "country": "exemplo-país",
+          "flag": "exemplo-bandeira"
+        }
+      }
+    },
+    {
+      "presentation": {
+        "background": "/carouselImages/img-1.png",
+        "header": "Europa",
+        "info": "O continente mais antigo."
+      }, 
+      "pageDetails": {
+        "banner": {
+          "background": "/carouselImages/img-1.png",
+          "header": "Europa"
+        },
+        "curiosities": {
+          "info": "exemplo-info",
+          "data": {
+            "countries": 50,
+            "languages": 60,
+            "plus100Numbers": 27
+          }
+        },
+        "plus100Cards": {
+          "banner": "exemplo-banner",
+          "citie": "exemplo-cidade",
+          "country": "exemplo-país",
+          "flag": "exemplo-bandeira"
+        }
+      }
+    }
+  ]
+}
