@@ -12,7 +12,7 @@ function Banner({w, h}: BannerProps) {
   });
 
   return (
-      <Flex  align="center" justifyContent="space-around" h={h}  w={w} maxW="1920px">
+      <Flex  align="center" justifyContent="space-around" h={h}  w={w} maxW="1400px">
         <VStack zIndex={1} display="flex">
           <Heading color="light.heading">
             5 Continentes,<br/>
@@ -33,7 +33,7 @@ function Banner({w, h}: BannerProps) {
             <Img src="/Airplane.png" mt="10"/>
           </VStack>
         )}
-        </Flex>
+      </Flex>
     );
   }
   

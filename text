@@ -1,0 +1,136 @@
+    ,
+    {
+      "presentation": {
+        "background": "/carouselImages/img-2.png",
+        "header": "Ásia",
+        "info": "O maior continente."
+      }, 
+      "pageDetails": {
+        "banner": {
+          "background": "/carouselImages/img-2.png",
+          "header": "Ásia"
+        },
+        "curiosities": {
+          "info": "exemplo-info",
+          "data": {
+            "countries": 50,
+            "languages": 2301,
+            "plus100Numbers": 27
+          }
+        },
+        "plus100Cards": {
+          "banner": "exemplo-banner",
+          "citie": "exemplo-cidade",
+          "country": "exemplo-país",
+          "flag": "exemplo-bandeira"
+        }
+      }
+    },
+    {
+      "presentation": {
+        "background": "/carouselImages/img-3.png",
+        "header": "África",
+        "info": "O berço da civilização."
+      }, 
+      "pageDetails": {
+        "banner": {
+          "background": "/carouselImages/img-3.png",
+          "header": "África"
+        },
+        "curiosities": {
+          "info": "exemplo-info",
+          "data": {
+            "countries": 54,
+            "languages": 3000,
+            "plus100Numbers": 27
+          }
+        },
+        "plus100Cards": {
+          "banner": "exemplo-banner",
+          "citie": "exemplo-cidade",
+          "country": "exemplo-país",
+          "flag": "exemplo-bandeira"
+        }
+      }
+    },
+    {
+      "presentation": {
+        "background": "/carouselImages/img-4.png",
+        "header": "Oceania",
+        "info": "As ilhas mais belas."
+      }, 
+      "pageDetails": {
+        "banner": {
+          "background": "/carouselImages/img-4.png",
+          "header": "Oceania"
+        },
+        "curiosities": {
+          "info": "exemplo-info",
+          "data": {
+            "countries": 16,
+            "languages": 18,
+            "plus100Numbers": 27
+          }
+        },
+        "plus100Cards": {
+          "banner": "exemplo-banner",
+          "citie": "exemplo-cidade",
+          "country": "exemplo-país",
+          "flag": "exemplo-bandeira"
+        }
+      }
+    },
+    {
+      "presentation": {
+        "background": "/carouselImages/img-5.png",
+        "header": "América do Sul",
+        "info": "Lar de grandes florestas"
+      }, 
+      "pageDetails": {
+        "banner": {
+          "background": "/carouselImages/img-5.png",
+          "header": "América do Sul"
+        },
+        "curiosities": {
+          "info": "exemplo-info",
+          "data": {
+            "countries": 16,
+            "languages": 18,
+            "plus100Numbers": 27
+          }
+        },
+        "plus100Cards": {
+          "banner": "exemplo-banner",
+          "citie": "exemplo-cidade",
+          "country": "exemplo-país",
+          "flag": "exemplo-bandeira"
+        }
+      }
+    },
+    {
+      "presentation": {
+        "background": "/carouselImages/img-6.png",
+        "header": "América do Norte",
+        "info": "Berço das oportunidades."
+      }, 
+      "pageDetails": {
+        "banner": {
+          "background": "/carouselImages/img-6.png",
+          "header": "América do Norte"
+        },
+        "curiosities": {
+          "info": "exemplo-info",
+          "data": {
+            "countries": 16,
+            "languages": 18,
+            "plus100Numbers": 27
+          }
+        },
+        "plus100Cards": {
+          "banner": "exemplo-banner",
+          "citie": "exemplo-cidade",
+          "country": "exemplo-país",
+          "flag": "exemplo-bandeira"
+        }
+      }
+    }

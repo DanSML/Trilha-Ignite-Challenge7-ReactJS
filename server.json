@@ -4,7 +4,8 @@
       "presentation": {
         "background": "/carouselImages/img-1.png",
         "header": "Europa",
-        "info": "O continente mais antigo."
+        "info": "O continente mais antigo.",
+        "href": "/europe"
       }, 
       "pageDetails": {
         "banner": {
@@ -12,46 +13,345 @@
           "header": "Europa"
         },
         "curiosities": {
-          "info": "exemplo-info",
+          "info": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
           "data": {
             "countries": 50,
             "languages": 60,
             "plus100Numbers": 27
           }
         },
-        "plus100Cards": {
-          "banner": "exemplo-banner",
-          "citie": "exemplo-cidade",
-          "country": "exemplo-país",
-          "flag": "exemplo-bandeira"
-        }
+        "plus100Cards": [
+          {    
+            "id": 1,      
+            "banner": "/cardImages/europe/banner/ukBanner.png",
+            "citie": "Londres",
+            "country": "Reino Unido",
+            "flag": "/cardImages/europe/flag/ukFlag.png"
+          },
+          {
+            "id": 2,      
+            "banner": "/cardImages/europe/banner/frBanner.png",
+            "citie": "Paris",
+            "country": "França",
+            "flag": "/cardImages/europe/flag/frFlag.png"           
+          },
+          {          
+            "id": 3,      
+            "banner": "/cardImages/europe/banner/itBanner.png",
+            "citie": "Roma",
+            "country": "Itália",
+            "flag": "/cardImages/europe/flag/itFlag.png"
+          },
+          {
+            "id": 4,      
+            "banner": "/cardImages/europe/banner/czBanner.png",
+            "citie": "Praga",
+            "country": "República Tcheca",
+            "flag": "/cardImages/europe/flag/czFlag.png"          
+          },
+          {
+            "id": 5,      
+            "banner": "/cardImages/europe/banner/nlBanner.png",
+            "citie": "Amsterdã",
+            "country": "Holanda",
+            "flag": "/cardImages/europe/flag/nlFlag.png"            
+          }
+        ]
       }
     },
     {
       "presentation": {
-        "background": "/carouselImages/img-1.png",
-        "header": "Europa",
-        "info": "O continente mais antigo."
+        "background": "/carouselImages/img-2.png",
+        "header": "Ásia",
+        "info": "O maior continente.",
+        "href": "/asia"
       }, 
       "pageDetails": {
         "banner": {
-          "background": "/carouselImages/img-1.png",
-          "header": "Europa"
+          "background": "/carouselImages/img-2.png",
+          "header": "Ásia"
         },
         "curiosities": {
-          "info": "exemplo-info",
+          "info": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
           "data": {
             "countries": 50,
-            "languages": 60,
+            "languages": 2301,
             "plus100Numbers": 27
           }
         },
-        "plus100Cards": {
-          "banner": "exemplo-banner",
-          "citie": "exemplo-cidade",
-          "country": "exemplo-país",
-          "flag": "exemplo-bandeira"
-        }
+        "plus100Cards":[
+          {    
+            "id": 1,      
+            "banner": "/cardImages/europe/banner/ukBanner.png",
+            "citie": "Londres",
+            "country": "Reino Unido",
+            "flag": "/cardImages/europe/flag/ukFlag.png"
+          },
+          {
+            "id": 2,      
+            "banner": "/cardImages/europe/banner/frBanner.png",
+            "citie": "Paris",
+            "country": "França",
+            "flag": "/cardImages/europe/flag/frFlag.png"           
+          },
+          {          
+            "id": 3,      
+            "banner": "/cardImages/europe/banner/itBanner.png",
+            "citie": "Roma",
+            "country": "Itália",
+            "flag": "/cardImages/europe/flag/itFlag.png"
+          },
+          {
+            "id": 4,      
+            "banner": "/cardImages/europe/banner/czBanner.png",
+            "citie": "Praga",
+            "country": "República Tcheca",
+            "flag": "/cardImages/europe/flag/czFlag.png"          
+          },
+          {
+            "id": 5,      
+            "banner": "/cardImages/europe/banner/nlBanner.png",
+            "citie": "Amsterdã",
+            "country": "Holanda",
+            "flag": "/cardImages/europe/flag/nlFlag.png"            
+          }
+        ]
+      }
+    },
+    {
+      "presentation": {
+        "background": "/carouselImages/img-3.png",
+        "header": "África",
+        "info": "O berço da civilização.",
+        "href": "/africa"
+      }, 
+      "pageDetails": {
+        "banner": {
+          "background": "/carouselImages/img-3.png",
+          "header": "África"
+        },
+        "curiosities": {
+          "info": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+          "data": {
+            "countries": 54,
+            "languages": 3000,
+            "plus100Numbers": 27
+          }
+        },
+        "plus100Cards":[
+          {    
+            "id": 1,      
+            "banner": "/cardImages/europe/banner/ukBanner.png",
+            "citie": "Londres",
+            "country": "Reino Unido",
+            "flag": "/cardImages/europe/flag/ukFlag.png"
+          },
+          {
+            "id": 2,      
+            "banner": "/cardImages/europe/banner/frBanner.png",
+            "citie": "Paris",
+            "country": "França",
+            "flag": "/cardImages/europe/flag/frFlag.png"           
+          },
+          {          
+            "id": 3,      
+            "banner": "/cardImages/europe/banner/itBanner.png",
+            "citie": "Roma",
+            "country": "Itália",
+            "flag": "/cardImages/europe/flag/itFlag.png"
+          },
+          {
+            "id": 4,      
+            "banner": "/cardImages/europe/banner/czBanner.png",
+            "citie": "Praga",
+            "country": "República Tcheca",
+            "flag": "/cardImages/europe/flag/czFlag.png"          
+          },
+          {
+            "id": 5,      
+            "banner": "/cardImages/europe/banner/nlBanner.png",
+            "citie": "Amsterdã",
+            "country": "Holanda",
+            "flag": "/cardImages/europe/flag/nlFlag.png"            
+          }
+        ]
+      }
+    },
+    {
+      "presentation": {
+        "background": "/carouselImages/img-4.png",
+        "header": "Oceania",
+        "info": "As ilhas mais belas.",
+        "href": "/oceania"
+      }, 
+      "pageDetails": {
+        "banner": {
+          "background": "/carouselImages/img-4.png",
+          "header": "Oceania"
+        },
+        "curiosities": {
+          "info": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+          "data": {
+            "countries": 16,
+            "languages": 18,
+            "plus100Numbers": 27
+          }
+        },
+        "plus100Cards":[
+          {    
+            "id": 1,      
+            "banner": "/cardImages/europe/banner/ukBanner.png",
+            "citie": "Londres",
+            "country": "Reino Unido",
+            "flag": "/cardImages/europe/flag/ukFlag.png"
+          },
+          {
+            "id": 2,      
+            "banner": "/cardImages/europe/banner/frBanner.png",
+            "citie": "Paris",
+            "country": "França",
+            "flag": "/cardImages/europe/flag/frFlag.png"           
+          },
+          {          
+            "id": 3,      
+            "banner": "/cardImages/europe/banner/itBanner.png",
+            "citie": "Roma",
+            "country": "Itália",
+            "flag": "/cardImages/europe/flag/itFlag.png"
+          },
+          {
+            "id": 4,      
+            "banner": "/cardImages/europe/banner/czBanner.png",
+            "citie": "Praga",
+            "country": "República Tcheca",
+            "flag": "/cardImages/europe/flag/czFlag.png"          
+          },
+          {
+            "id": 5,      
+            "banner": "/cardImages/europe/banner/nlBanner.png",
+            "citie": "Amsterdã",
+            "country": "Holanda",
+            "flag": "/cardImages/europe/flag/nlFlag.png"            
+          }
+        ]
+      }
+    },
+    {
+      "presentation": {
+        "background": "/carouselImages/img-5.png",
+        "header": "América do Sul",
+        "info": "Lar de grandes florestas",
+        "href": "/south-america"
+      }, 
+      "pageDetails": {
+        "banner": {
+          "background": "/carouselImages/img-5.png",
+          "header": "América do Sul"
+        },
+        "curiosities": {
+          "info": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+          "data": {
+            "countries": 16,
+            "languages": 18,
+            "plus100Numbers": 27
+          }
+        },
+        "plus100Cards":[
+          {    
+            "id": 1,      
+            "banner": "/cardImages/europe/banner/ukBanner.png",
+            "citie": "Londres",
+            "country": "Reino Unido",
+            "flag": "/cardImages/europe/flag/ukFlag.png"
+          },
+          {
+            "id": 2,      
+            "banner": "/cardImages/europe/banner/frBanner.png",
+            "citie": "Paris",
+            "country": "França",
+            "flag": "/cardImages/europe/flag/frFlag.png"           
+          },
+          {          
+            "id": 3,      
+            "banner": "/cardImages/europe/banner/itBanner.png",
+            "citie": "Roma",
+            "country": "Itália",
+            "flag": "/cardImages/europe/flag/itFlag.png"
+          },
+          {
+            "id": 4,      
+            "banner": "/cardImages/europe/banner/czBanner.png",
+            "citie": "Praga",
+            "country": "República Tcheca",
+            "flag": "/cardImages/europe/flag/czFlag.png"          
+          },
+          {
+            "id": 5,      
+            "banner": "/cardImages/europe/banner/nlBanner.png",
+            "citie": "Amsterdã",
+            "country": "Holanda",
+            "flag": "/cardImages/europe/flag/nlFlag.png"            
+          }
+        ]
+      }
+    },
+    {
+      "presentation": {
+        "background": "/carouselImages/img-6.png",
+        "header": "América do Norte",
+        "info": "Berço das oportunidades.",
+        "href": "/north-america"
+      }, 
+      "pageDetails": {
+        "banner": {
+          "background": "/carouselImages/img-6.png",
+          "header": "América do Norte"
+        },
+        "curiosities": {
+          "info": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+          "data": {
+            "countries": 16,
+            "languages": 18,
+            "plus100Numbers": 27
+          }
+        },
+        "plus100Cards":[
+          {    
+            "id": 1,      
+            "banner": "/cardImages/europe/banner/ukBanner.png",
+            "citie": "Londres",
+            "country": "Reino Unido",
+            "flag": "/cardImages/europe/flag/ukFlag.png"
+          },
+          {
+            "id": 2,      
+            "banner": "/cardImages/europe/banner/frBanner.png",
+            "citie": "Paris",
+            "country": "França",
+            "flag": "/cardImages/europe/flag/frFlag.png"           
+          },
+          {          
+            "id": 3,      
+            "banner": "/cardImages/europe/banner/itBanner.png",
+            "citie": "Roma",
+            "country": "Itália",
+            "flag": "/cardImages/europe/flag/itFlag.png"
+          },
+          {
+            "id": 4,      
+            "banner": "/cardImages/europe/banner/czBanner.png",
+            "citie": "Praga",
+            "country": "República Tcheca",
+            "flag": "/cardImages/europe/flag/czFlag.png"          
+          },
+          {
+            "id": 5,      
+            "banner": "/cardImages/europe/banner/nlBanner.png",
+            "citie": "Amsterdã",
+            "country": "Holanda",
+            "flag": "/cardImages/europe/flag/nlFlag.png"            
+          }
+        ]
       }
     }
   ]
